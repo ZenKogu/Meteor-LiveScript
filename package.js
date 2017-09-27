@@ -1,7 +1,7 @@
 Package.describe({
   name: 'dessix:livescript-compiler',
   summary: "LiveScript, a CoffeeScript descendant with improvements and new features.",
-  version: "0.2.1",
+  version: "0.2.2",
   git: "https://github.com/ZenKogu/Meteor-LiveScript"
 });
 
