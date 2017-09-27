@@ -11,7 +11,7 @@ var options;
 //                                                                   //
 ///////////////////////////////////////////////////////////////////////
                                                                      //
-var fs = Npm.require('fs');                                          // 1
+var fs = Npm.require('filesystem');                                  // 1
 var path = Npm.require('path');                                      // 2
 var livescript = Npm.require('livescript');                          // 3
                                                                      // 4
